@@ -442,11 +442,11 @@ footer {
   .hero .hero--content .hero--description p {
     font-size: 14px;
   }
-}
-.info .info--description .info--image {
-  display: block;
-}
 
+  .info .info--description .info--image {
+    display: block;
+  }
+}
 .outro {
   padding: 2rem 0;
 }
